@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct>
+    <classifierName>PinGTSVM - General Twin Support Vector Machine with Pinball Loss</classifierName>
+    <fnName>pinGTSVM</fnName>
+    <configureClassifierButtonEnable>false</configureClassifierButtonEnable>
+    <configurationOptions/>
+    <numberOfHyperparameters>4</numberOfHyperparameters>
+    <hyperParamNames>c1</hyperParamNames>
+    <hyperParamNames>c2</hyperParamNames>
+    <hyperParamNames>kerfParaType</hyperParamNames>
+    <hyperParamNames>kerfParaPars</hyperParamNames>
+    <nodeType>classifier</nodeType>
+    <baseClassifierType>TWSVM based Classifiers</baseClassifierType>
+</struct>

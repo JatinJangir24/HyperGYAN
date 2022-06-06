@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct>
+    <classifierName>KRR - Kernel Ridge Regression</classifierName>
+    <fnName>KRR</fnName>
+    <configureClassifierButtonEnable>false</configureClassifierButtonEnable>
+    <configurationOptions/>
+    <numberOfHyperparameters>3</numberOfHyperparameters>
+    <hyperParamNames>C</hyperParamNames>
+    <hyperParamNames>kerfParaType</hyperParamNames>
+    <hyperParamNames>kerfParaPars</hyperParamNames>
+    <nodeType>classifier</nodeType>
+    <baseClassifierType>Uncategorised</baseClassifierType>
+</struct>

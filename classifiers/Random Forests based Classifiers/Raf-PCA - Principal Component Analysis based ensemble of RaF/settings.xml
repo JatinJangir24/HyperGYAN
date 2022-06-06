@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct>
+    <classifierName>Raf-PCA - Principal Component Analysis based ensemble of RaF</classifierName>
+    <fnName>RaF_PCA</fnName>
+    <configureClassifierButtonEnable>false</configureClassifierButtonEnable>
+    <configurationOptions/>
+    <numberOfHyperparameters>1</numberOfHyperparameters>
+    <hyperParamNames>nTree</hyperParamNames>
+    <nodeType>classifier</nodeType>
+    <baseClassifierType>Random Forests based Classifiers</baseClassifierType>
+</struct>

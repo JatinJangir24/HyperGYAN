@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct>
+    <classifierName>RELSTWSVM - Robust Energy-based Least Squares Twin Support Vector Machines</classifierName>
+    <fnName>PROP_ELS_TWSVM</fnName>
+    <configureClassifierButtonEnable>false</configureClassifierButtonEnable>
+    <configurationOptions/>
+    <numberOfHyperparameters>5</numberOfHyperparameters>
+    <hyperParamNames>c1</hyperParamNames>
+    <hyperParamNames>c3</hyperParamNames>
+    <hyperParamNames>E1</hyperParamNames>
+    <hyperParamNames>kerfParaType</hyperParamNames>
+    <hyperParamNames>kerfParaPars</hyperParamNames>
+    <nodeType>classifier</nodeType>
+    <baseClassifierType>TWSVM based Classifiers</baseClassifierType>
+</struct>

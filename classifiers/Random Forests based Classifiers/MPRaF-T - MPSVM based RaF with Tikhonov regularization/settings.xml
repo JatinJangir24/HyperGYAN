@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct>
+    <classifierName>MPRaf-T - MPSVM based RaF with Tikhonov regularization</classifierName>
+    <fnName>MPRaf_T</fnName>
+    <configureClassifierButtonEnable>false</configureClassifierButtonEnable>
+    <configurationOptions/>
+    <numberOfHyperparameters>1</numberOfHyperparameters>
+    <hyperParamNames>nTree</hyperParamNames>
+    <nodeType>classifier</nodeType>
+    <baseClassifierType>Random Forests based Classifiers</baseClassifierType>
+</struct>

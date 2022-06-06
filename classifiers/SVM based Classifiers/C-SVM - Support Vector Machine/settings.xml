@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct>
+    <classifierName>C-SVM - Support Vector Machine</classifierName>
+    <fnName>C_SVM</fnName>
+    <configureClassifierButtonEnable>false</configureClassifierButtonEnable>
+    <configurationOptions/>
+    <numberOfHyperparameters>3</numberOfHyperparameters>
+    <hyperParamNames>c</hyperParamNames>
+    <hyperParamNames>kerfParaType</hyperParamNames>
+    <hyperParamNames>kerfParaPars</hyperParamNames>
+    <nodeType>classifier</nodeType>
+    <baseClassifierType>SVM based Classifiers</baseClassifierType>
+</struct>

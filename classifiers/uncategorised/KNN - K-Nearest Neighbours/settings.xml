@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct>
+    <classifierName>KNN - K-Nearest Neighbours</classifierName>
+    <fnName>KNN</fnName>
+    <configureClassifierButtonEnable>false</configureClassifierButtonEnable>
+    <configurationOptions/>
+    <numberOfHyperparameters>1</numberOfHyperparameters>
+    <hyperParamNames>numNeighbors</hyperParamNames>
+    <nodeType>classifier</nodeType>
+    <baseClassifierType>Uncategorised</baseClassifierType>
+</struct>

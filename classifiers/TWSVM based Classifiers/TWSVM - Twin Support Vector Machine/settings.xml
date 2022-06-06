@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct>
+    <classifierName>TWSVM - Twin Support Vector Machine</classifierName>
+    <fnName>TWSVM</fnName>
+    <configureClassifierButtonEnable>false</configureClassifierButtonEnable>
+    <configurationOptions/>
+    <numberOfHyperparameters>3</numberOfHyperparameters>
+    <hyperParamNames>c1</hyperParamNames>
+    <hyperParamNames>kerfParaType</hyperParamNames>
+    <hyperParamNames>kerfParaPars</hyperParamNames>
+    <nodeType>classifier</nodeType>
+    <baseClassifierType>TWSVM based Classifiers</baseClassifierType>
+</struct>

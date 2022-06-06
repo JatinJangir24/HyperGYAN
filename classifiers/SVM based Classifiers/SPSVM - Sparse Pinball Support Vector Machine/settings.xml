@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct>
+    <classifierName>SPSVM - Sparse Pinball Support Vector Machine</classifierName>
+    <fnName>Sparse_Pin_SVM</fnName>
+    <configureClassifierButtonEnable>false</configureClassifierButtonEnable>
+    <configurationOptions/>
+    <numberOfHyperparameters>5</numberOfHyperparameters>
+    <hyperParamNames>c</hyperParamNames>
+    <hyperParamNames>epsilon</hyperParamNames>
+    <hyperParamNames>tau</hyperParamNames>
+    <hyperParamNames>kerfParaType</hyperParamNames>
+    <hyperParamNames>kerfParaPars</hyperParamNames>
+    <nodeType>classifier</nodeType>
+    <baseClassifierType>TWSVM based Classifiers</baseClassifierType>
+</struct>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct>
+    <classifierName>MPRaF-P - MPSVM based RaF with Axis-Parallel regularization</classifierName>
+    <fnName>MPRaf_P</fnName>
+    <configureClassifierButtonEnable>false</configureClassifierButtonEnable>
+    <configurationOptions/>
+    <numberOfHyperparameters>1</numberOfHyperparameters>
+    <hyperParamNames>nTree</hyperParamNames>
+    <nodeType>classifier</nodeType>
+    <baseClassifierType>Random Forests based Classifiers</baseClassifierType>
+</struct>

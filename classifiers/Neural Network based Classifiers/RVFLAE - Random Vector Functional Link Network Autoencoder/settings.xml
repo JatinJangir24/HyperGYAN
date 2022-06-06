@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct>
+    <classifierName>RVFLAE - Random Vector Functional Link Network Autoencoder</classifierName>
+    <fnName>RVFLAE</fnName>
+    <configureClassifierButtonEnable>false</configureClassifierButtonEnable>
+    <configurationOptions/>
+    <numberOfHyperparameters>2</numberOfHyperparameters>
+    <hyperParamNames>C</hyperParamNames>
+    <hyperParamNames>N</hyperParamNames>
+    <nodeType>classifier</nodeType>
+    <baseClassifierType>Neural Network based Classifiers</baseClassifierType>
+</struct>
